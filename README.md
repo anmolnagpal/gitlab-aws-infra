@@ -38,7 +38,7 @@ Usage
 ### Download the terraform and packer templates
 
 ```sh
-git clone --recursive https://github.com/csanquer/gitlab-setup.git
+git clone --recursive https://github.com/anmolnagpal/gitlab-aws-infra.git
 ```
 
 ### To create the Gitlab infrastructure
